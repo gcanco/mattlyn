@@ -1,4 +1,4 @@
-var intro = new TypeIt('#element', {
+var intro = new TypeIt('#intro', {
   speed: 100,
   cursor: false
 })
