@@ -14,5 +14,5 @@ var bio = new TypeIt('#bio', {
   speed: 25,
   cursor: false
 })
-.pause(7500)
+.pause(7000)
 .type('Northwestern undergraduate studying Gender and Sexuality, Film and Media, and Latinx Studies')
