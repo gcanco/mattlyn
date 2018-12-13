@@ -1,6 +1,7 @@
 * {
   font-family: 'Song Myung', sans-serif;
   font-weight: 300;
+  -webkit-font-smoothing: antialiased;
 }
 
 @media only screen and (min-width: 600px) {
